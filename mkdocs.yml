@@ -1,0 +1,10 @@
+site_name: IBM Cloud Pak for Application App Modernization
+nav:
+ - IBM Cloud Pak for Applications - Demo Day: index.md
+ - Application Modernization: AppMod.md
+ - The Value of WebSphere Liberty: liberty.md
+ - Get Started with the Migration Toolkit: wamt.md
+ - Build and Run Cloud Native Applications: cloudNative.md
+ - End to End Scenario and value of IBM Cloud Paks: e2e.md
+theme: readthedocs
+extra_css: ["extra.css"]
